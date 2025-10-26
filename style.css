@@ -1,0 +1,27 @@
+.main-page-body {
+    background-image: url('bg6.jpg');
+}
+.inner-page-body{
+background-image: url('bg3.jpg');
+}
+h1{
+    color:rgb(214, 144, 40);
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+}
+h2{
+    color:rgb(125, 104, 30);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+color:rgb(92, 92, 92);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+color:rgb(64, 71, 103);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+}
